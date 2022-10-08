@@ -20,7 +20,7 @@
 ![LucasMeeiira GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasMeeiira&show_icons=true&theme=tokyonight)
 <br><br>
 
-### ◽️ Skills que desejo aprender 🧐📝
+### ◽️ Skills que desejo aprender  🧐📝
 
 <div style="display:inline-block">
    <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
