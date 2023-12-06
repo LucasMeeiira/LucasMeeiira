@@ -3,7 +3,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CED1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Lucas+Meira+Rodrigues.;Eu+tenho+26+anos.;Eu+sou+do+Rio+de+Janeiro.;+Estudo+na+Alura.;Seja+BEM-VINDO!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00CED1&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+Nome+é+Lucas+Meira+Rodrigues.;Eu+tenho+28+anos.;Eu+sou+do+Rio+de+Janeiro.;+Estudo+na+Alura.;Seja+BEM-VINDO!+:%29)](https://git.io/typing-svg)
 <br><br><br><br><br>
 
 
